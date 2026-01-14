@@ -10,4 +10,4 @@
 ## bed thing
     I can't input chinese 
     output enlish
-    because this dict not Enlisht-> Chinese and Chinese -> Enlish
+    because this dict not English-> Chinese and Chinese -> Enlish
